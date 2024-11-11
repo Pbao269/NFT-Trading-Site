@@ -1,10 +1,10 @@
-# 🎨 KNFT - NFT Marketplace
+# 🎨 NAFT - NFT Marketplace
 
-**KNFT** is a fully responsive NFT marketplace website, optimized for all devices. Built with **HTML**, **CSS**, and **JavaScript**, NAFT delivers a seamless, engaging experience for NFT enthusiasts.
+**NAFT** is a fully responsive NFT marketplace website, optimized for all devices. Built with **HTML**, **CSS**, and **JavaScript**, NAFT delivers a seamless, engaging experience for NFT enthusiasts.
 
 ## 📸 Demo
 
-Explore KNFT in action on desktop and mobile devices:
+Explore NAFT in action on desktop and mobile devices:
 
 <img width="844" alt="image" src="https://github.com/user-attachments/assets/6dab7307-dcd5-43a5-b7d4-a4a72841388d">
 
